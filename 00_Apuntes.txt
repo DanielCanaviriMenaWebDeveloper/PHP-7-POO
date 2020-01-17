@@ -1,0 +1,8 @@
+JSONLint - The JSON Validator (Validador de sintaxis JSON)
+https://jsonlint.com/
+
+******* Atajos de Teclado para Sublime Text *******
+Ctrl + shift + p  => Permite seleccionar la Sintaxis del Archivo
+Ctrl + n          => Permite Crear nuevo archivo
+Ctrl + s          => Permite Guardar Archivo
+Resaltar palabra y Ctrl + d  => Permite Seleccionar palabras en comun 
