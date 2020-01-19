@@ -6,3 +6,7 @@ Ctrl + shift + p  => Permite seleccionar la Sintaxis del Archivo
 Ctrl + n          => Permite Crear nuevo archivo
 Ctrl + s          => Permite Guardar Archivo
 Resaltar palabra y Ctrl + d  => Permite Seleccionar palabras en comun 
+
+
+Documentacion de Metodo para la conexión a BD en MySQL con PHP
+https://www.php.net/manual/es/mysqli-result.fetch-all.php
